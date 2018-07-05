@@ -4,7 +4,7 @@
 *In den letzten zwei Jahren sind innerhalb des Projektes "Je Suis Autocomplete" Textdaten aus Google und Bings Autocomplete Api gespeichert worden. Diese Texte sollen nun hier untersucht werden*
 
 Vor allem sollen folgende Fragen im Vordergrund stehen:
-Wie ist der Syntax der “AutovervollständigtenSätze” in der Datenbank beschaffen? Wovon handeln sie? 
+Wie ist der Syntax der “AutovervollständigtenSätze” in der Datenbank beschaffen? Wovon handeln Sie? 
 
 
 ## Inhaltsverzeichnis:
