@@ -1,22 +1,4 @@
 
-<script>
-    var code_show=true; //true -> hide code at first
-
-    function code_toggle() {
-        $('div.prompt').hide(); // always hide prompt
-
-        if (code_show){
-            $('div.input').hide();
-        } else {
-            $('div.input').show();
-        }
-        code_show = !code_show
-    }
-    $( document ).ready(code_toggle);
-</script>
-
-<a href="javascript:code_toggle()">[CODE EIN/AUSBLENDEN]</a>
-
 # Syntax Analyse / Information Retrieval anhand des Textkorpus “Je Suis Autocomplete”
 
 *In den letzten zwei Jahren sind innerhalb des Projektes "Je Suis Autocomplete" Textdaten aus Google und Bings Autocomplete Api gespeichert worden. Diese Texte sollen nun hier untersucht werden*
@@ -107,7 +89,7 @@ Um noch etwas mehr Material an zu sammeln, habe ich noch einige statische Listen
 import mysql.connector
 import itertools
 
-db = mysql.connector.connect(host="81.169.151.194",user="instabilothek",password="sTealtHispAsswOrd",database="jesuisautocomplete", port="3306" )
+db = mysql.connector.connect(host="*******",user="instabilothek",password="*******",database="jesuisautocomplete", port="3306" )
 
 cursor = db.cursor()
 
