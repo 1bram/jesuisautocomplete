@@ -26,7 +26,7 @@ Zum gegenwärtigen Zeitpunkt der hier versuchten Analyse -mittles Python und nlt
 
 * Das Korpus enthält c.a. 61 000 Verben
 
-* In über 80 % Prozent der Fälle stehen die Verben an zweiter Stelle des Satzes
+* In über 80 % Prozent der Sätze stehen die Verben an zweiter Stelle
 
 * Diese Verben sind meistens infinitiv
 
