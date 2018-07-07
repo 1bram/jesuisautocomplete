@@ -26,6 +26,8 @@ Zum gegenwärtigen Zeitpunkt der hier versuchten Analyse -mittles Python und nlt
 
 * Das Korpus enthält c.a. 61 000 Verben
 
+* In über 80 % Prozent der Fälle stehen die Verben an zweiter Stelle des Satzes
+
 * Diese Verben sind meistens infinitiv
 
 * Die Wörter "Arbeiten", "Glauben","Lieben" sind was die Häufigkeit der verwendung angeht ganz weit oben und direkt an benachbarter "Stelle". [<i>(siehe Kapitel 2.3)</i>](#7)
